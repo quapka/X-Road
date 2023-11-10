@@ -45,7 +45,7 @@ license, visit http://creativecommons.org/licenses/by-sa/3.0/
     * [3.2 Objectives](#32-objectives)
 * [4 Message Format](#4-message-format)
     * [4.1 REST Interface](#41-rest-interface)
-    * [4.2 URI Sanitation](#42-uri-sanitation)
+    * [4.2 URI Sanitzation](#42-uri-sanitization)
     * [4.3 Use of HTTP Headers](#43-use-of-http-headers)
     * [4.4 HTTP Redirects](#44-http-redirects)
     * [4.5 Use of Query Parameters](#45-use-of-query-parameters)
